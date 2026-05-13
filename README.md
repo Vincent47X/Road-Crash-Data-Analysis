@@ -59,11 +59,11 @@ This project analyzes road crash data to identify patterns in accident frequency
 
 ![Crashes by weekdays](images/image_01.png)
 
-![Top 10 Vehicle Makes in Crashes](images/image_01.png)
+![Top 10 Vehicle Makes in Crashes](images/image_02.png)
 
-![Distribution of Vehicle Age in Crashes](images/image_01.png)
+![Distribution of Vehicle Age in Crashes](images/image_03.png)
 
-![Crash severity Distribution](images/image_01.png)
+![Crash severity Distribution](images/image_04.png)
 
 ## 🔍 Key Insights
 
