@@ -57,7 +57,7 @@ This project analyzes road crash data to identify patterns in accident frequency
 
 ## 📊 Screenshots
 
-
+![Crashes by weekdays](images/image_01.png)
 
 ![Top 10 Vehicle Makes in Crashes](images/image_02.png)
 
