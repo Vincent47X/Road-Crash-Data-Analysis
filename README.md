@@ -55,19 +55,15 @@ This project analyzes road crash data to identify patterns in accident frequency
 
 - Category-wise analysis of vehicle types
 
-## 📊 Dashboard Features
+## 📊 Screenshots
 
-- KPI Cards:
+![Crashes by weekdays](images/image_01.png)
 
-  - Total Sales
+![Top 10 Vehicle Makes in Crashes](images/image_01.png)
 
-  - Average Sales
+![Distribution of Vehicle Age in Crashes](images/image_01.png)
 
-  - Growth trends
-
-- Interactive slicers (filters)
-
-- Dynamic charts for trend analysis
+![Crash severity Distribution](images/image_01.png)
 
 ## 🔍 Key Insights
 
